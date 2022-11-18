@@ -1,0 +1,9 @@
+names:
+- helmet
+- head
+- person
+nc: 3
+path: /home/islandz/Documents/Helmet
+test: /home/islandz/Documents/Helmet/test.txt
+train: /home/islandz/Documents/Helmet/train.txt
+val: /home/islandz/Documents/Helmet/valid.txt
